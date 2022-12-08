@@ -17,8 +17,9 @@ After that, we have converted those temperatures to a list, and created a Data F
 
 You can see the statistics below:
 
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/sofiwolfes/Surfs_up/blob/main/Challenge/Summary%20Statistics%20June.png)
+
+![Alt text](https://github.com/sofiwolfes/Surfs_up/blob/main/Challenge/Summary%20Statistics%20December.png)
 
 ### Key differences in weather between June and December:
 
